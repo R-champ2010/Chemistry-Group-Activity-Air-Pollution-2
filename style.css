@@ -1,0 +1,78 @@
+marquee{
+    background: rgb(34,193,195);
+    background: linear-gradient(225deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+	border-style:dashed;
+	font-size: 35px;
+	color:darkslateblue;
+	border-color:firebrick;
+    font-family: 'Oswald', sans-serif;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right:10px;
+
+}
+
+body{
+    background: rgb(123,176,169);
+background: linear-gradient(287deg, rgba(123,176,169,1) 0%, rgba(139,186,138,0.4181022750897234) 50%, rgba(167,107,165,1) 100%);
+}
+
+#logo{
+    width: 350;
+    height: 350;
+    border: khaki;
+    border-style: dashed;
+    border-width: 7px;
+    margin-top: 10px;
+}
+
+#causes{
+    width: 70%;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+h3{
+    font-size: large;
+    color: darkred;
+}
+p{
+    font-size: 19px;
+    color: indigo;
+}
+
+iframe{
+    margin-bottom: 25px;
+    border-style: dashed;
+    border-color: lawngreen;
+}
+
+#pie{
+    font-family: 'Oswald', sans-serif;
+}
+
+#video{
+    font-family: 'Luxurious Roman', cursive;
+}
+
+#subscription{
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+}
+
+.links{
+	display: inline;
+	color: rgb(214, 173, 173);
+	padding-top: 5px;
+	padding-left: 9px;
+	padding-right: 9px;
+	padding-bottom: 5px;
+	font-family: 'Playfair Display', serif;
+	font-size: 20px;
+	border-color:darkmagenta;
+    border-style:solid;
+}
+
+html{
+    scroll-behavior: smooth;
+}
